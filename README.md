@@ -1,5 +1,5 @@
 
-# Online Airticket Reservation 
+# Online Flight Reservation 
 
 Hello, Everyone, This is small project I worked in our university database course. I have created this project using basic sql commands with help of YouTube, GitHub, StackOverflow and various other free online sources.   
 
