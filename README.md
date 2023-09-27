@@ -18,13 +18,13 @@ Hello, Everyone, This is small project I worked in our university database cours
 ### User Panel:
 * User Sign-up Dashboard
 * User Log-in Dashboard
-* Homepage To differentiate from User To Admin (**Also has indication if the any user is logged in or not)
+* Homepage To differentiate from User To Admin (**Also has indication if any user is logged in or not)
 * Searching Option For User To Find Available Flights
 * Booking Flight Tickets
 * Canceling Flight Tickets
-* Showing All Flights Booked By Unique User
+* Showing All Flights Booked By A Unique User
 
-## Languages used for this projects are:
+## Languages used for this project are:
 * HTML
 * CSS
 * MySQL
@@ -40,4 +40,4 @@ ID: email address of your choice
 
 Password: password of your choice
 
-### Also created an access to a certain 'brands' website which we take inspire to create the name of this website (Click the logo to go to the link)
+### Also created access to a certain 'brands' website, which we took inspiration from to create the name of this website (Click the logo to go to the link)
