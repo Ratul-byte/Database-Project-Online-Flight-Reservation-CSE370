@@ -45,47 +45,47 @@ Password: password of your choice
 
 ## Screenshots
 
+### Original Homepage
+![og_homepage](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/8b153b79-3392-4696-81d7-f13a24f5149a)
+
+### User Login
+![user_login](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/9a3935f0-276d-404a-86f5-66e679262612)
+
+### Homepage After Login
+![homepageAfterLogIN](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/3b8feff1-bc95-4f1c-b9f7-1ad354b8c2f9)
+
 ### Add Flight
 ![addFlight](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/ccda5cb8-0a97-4027-bc8a-0572730e4213)
 
 ### Admin Dashboard
-![Admin Dashboard](admindashboard.png)
+![admindashboard](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/6a565395-2a69-41ce-92e3-c4000cb122e4)
 
 ### Admin Login
-![Admin Login](adminLogin.png)
+![adminLogin](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/4618c7a9-95b0-446c-95a8-e287498ff103)
 
 ### Book Tickets
-![Book Tickets](book_tickets2.png)
+![book_tickets2](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/cb6094e6-2350-42f6-bbdc-947397f24090)
 
 ### Booked Flights
-![Booked Flights](booked_flights.png)
+![booked_flights](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/9838b582-dc39-4264-a7b2-b94a836b9e42)
 
 ### Cancel Flights
-![Cancel Flights](cancel_flights.png)
+![cancel_flights](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/6dd75064-7816-4634-8aa1-978ff71065e5)
 
 ### Delete Flight
-![Delete Flight](delete_flight.png)
+![deleteFlight](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/38dc0303-53b6-4c49-b1e4-9d31156173d5)
 
 ### Flight Schedule (Admin)
-![Flight Schedule (Admin)](flightScheduleAdmin.png)
-
-### Homepage After Login
-![Homepage After Login](homepageAfterLogIN.png)
-
-### Original Homepage
-![Original Homepage](og_homepage.png)
+![flightScheduleAdmin](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/3455b17d-867e-4f67-82d2-fca7dd623e39)
 
 ### Payment
-![Payment](payment.png)
+![payment](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/aaf41bb1-2c39-408a-85f1-04b572d58919)
 
 ### User Registration
-![User Registration](register.png)
+![register](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/8d16b29f-57f3-4a8e-8073-51ab6dae9067)
 
 ### Modify Flight
-![Modify Flight](modifyFlight.png)
+![modifyFlight](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/e0a073f5-ca08-405b-802b-8f6d93c48a62)
 
 ### Show Flight Bookings
-![Show Flight Bookings](showFLightBookings.png)
-
-### User Login
-![User Login](user_login.png)
+![showFLightBookings](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/c84659a6-4b92-42a6-b902-fdbbb71d0004)
