@@ -46,46 +46,46 @@ Password: password of your choice
 ## Screenshots
 
 ### Add Flight
-![Add Flight](images/addFlight.png)
+![Add Flight](addFlight.png)
 
 ### Admin Dashboard
-![Admin Dashboard](images/admindashboard.png)
+![Admin Dashboard](admindashboard.png)
 
 ### Admin Login
-![Admin Login](images/adminLogin.png)
+![Admin Login](adminLogin.png)
 
 ### Book Tickets
-![Book Tickets](images/book_tickets2.png)
+![Book Tickets](book_tickets2.png)
 
 ### Booked Flights
-![Booked Flights](images/booked_flights.png)
+![Booked Flights](booked_flights.png)
 
 ### Cancel Flights
-![Cancel Flights](images/cancel_flights.png)
+![Cancel Flights](cancel_flights.png)
 
 ### Delete Flight
-![Delete Flight](images/delete_flight.png)
+![Delete Flight](delete_flight.png)
 
 ### Flight Schedule (Admin)
-![Flight Schedule (Admin)](images/flightScheduleAdmin.png)
+![Flight Schedule (Admin)](flightScheduleAdmin.png)
 
 ### Homepage After Login
-![Homepage After Login](images/homepageAfterLogIN.png)
+![Homepage After Login](homepageAfterLogIN.png)
 
 ### Original Homepage
-![Original Homepage](images/og_homepage.png)
+![Original Homepage](og_homepage.png)
 
 ### Payment
-![Payment](images/payment.png)
+![Payment](payment.png)
 
 ### User Registration
-![User Registration](images/register.png)
+![User Registration](register.png)
 
 ### Modify Flight
-![Modify Flight](images/modifyFlight.png)
+![Modify Flight](modifyFlight.png)
 
 ### Show Flight Bookings
-![Show Flight Bookings](images/showFLightBookings.png)
+![Show Flight Bookings](showFLightBookings.png)
 
 ### User Login
-![User Login](images/user_login.png)
+![User Login](user_login.png)
