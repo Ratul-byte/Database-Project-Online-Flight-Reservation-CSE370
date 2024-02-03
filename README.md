@@ -4,7 +4,7 @@
 Hello, Everyone, This is small project I worked in our university database course. I have created this project using basic sql commands with help of YouTube, GitHub, StackOverflow and various other free online sources.   
 
 ### Group Members:
-[Sadman Safiur Rahman](https://www.facebook.com/sadmansafiur.rahman) | [Hafsa Tahsin](https://www.facebook.com/hafsa.tahsin.5) | [Raida Mobashshira Tahsin](https://www.facebook.com/raida.mobashshira)
+[Md. Ratul Mushfique](https://www.facebook.com/ratul.mushfique/) | [Sadman Safiur Rahman](https://www.facebook.com/sadmansafiur.rahman) | [Hafsa Tahsin](https://www.facebook.com/hafsa.tahsin.5) | [Raida Mobashshira Tahsin](https://www.facebook.com/raida.mobashshira)
 
 ## This site features:
 ### Admin Panel:
