@@ -45,8 +45,6 @@ Password: password of your choice
 
 ## Screenshots
 
-## Screenshots
-
 ### Add Flight
 ![Add Flight](SS/addFlight.png)
 
