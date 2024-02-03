@@ -45,18 +45,49 @@ Password: password of your choice
 
 ## Screenshots
 
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/addFlight.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/admindashboard.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/adminLogin.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/book_tickets2.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/booked_flights.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/cancel_flights.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/delete_flight.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/flightScheduleAdmin.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/homepageAfterLogIN.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/og_homepage.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/payment.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/register.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/modifyFlight.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/modifyFlight.png)
-![Project Screenshot](E:/Study/cse/CSE370 t/SS/user_login.png)
+## Screenshots
+
+### Add Flight
+![Add Flight](SS/addFlight.png)
+
+### Admin Dashboard
+![Admin Dashboard](SS/admindashboard.png)
+
+### Admin Login
+![Admin Login](SS/adminLogin.png)
+
+### Book Tickets
+![Book Tickets](SS/book_tickets2.png)
+
+### Booked Flights
+![Booked Flights](SS/booked_flights.png)
+
+### Cancel Flights
+![Cancel Flights](SS/cancel_flights.png)
+
+### Delete Flight
+![Delete Flight](SS/delete_flight.png)
+
+### Flight Schedule (Admin)
+![Flight Schedule (Admin)](SS/flightScheduleAdmin.png)
+
+### Homepage After Login
+![Homepage After Login](SS/homepageAfterLogIN.png)
+
+### Original Homepage
+![Original Homepage](SS/og_homepage.png)
+
+### Payment
+![Payment](SS/payment.png)
+
+### User Registration
+![User Registration](SS/register.png)
+
+### Modify Flight
+![Modify Flight](SS/modifyFlight.png)
+
+### Show Flight Bookings
+![Show Flight Bookings](SS/showFLightBookings.png)
+
+### User Login
+![User Login](SS/user_login.png)
