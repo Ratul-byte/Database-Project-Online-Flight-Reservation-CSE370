@@ -46,7 +46,7 @@ Password: password of your choice
 ## Screenshots
 
 ### Add Flight
-![Add Flight](addFlight.png)
+![addFlight](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/ccda5cb8-0a97-4027-bc8a-0572730e4213)
 
 ### Admin Dashboard
 ![Admin Dashboard](admindashboard.png)
