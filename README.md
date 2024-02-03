@@ -46,7 +46,7 @@ Password: password of your choice
 ## Screenshots
 
 ### Add Flight
-![Add Flight](SS/addFlight.png)
+![Add Flight](images/addFlight.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](images/admindashboard.png)
