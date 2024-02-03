@@ -42,3 +42,21 @@ ID: email address of your choice
 Password: password of your choice
 
 ### Also created access to a certain 'brands' website, which we took inspiration from to create the name of this website (Click the logo to go to the link)
+
+## Screenshots
+
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/addFlight.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/admindashboard.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/adminLogin.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/book_tickets2.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/booked_flights.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/cancel_flights.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/delete_flight.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/flightScheduleAdmin.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/homepageAfterLogIN.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/og_homepage.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/payment.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/register.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/modifyFlight.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/modifyFlight.png)
+![Project Screenshot](E:/Study/cse/CSE370 t/SS/user_login.png)
